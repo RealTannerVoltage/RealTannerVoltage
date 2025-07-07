@@ -1,4 +1,4 @@
-# Hi there, I'm TannerVoltageOfficial! 👋
+# Hi there, I'm Tanner Voltage! 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer who loves open-source projects and innovative solutions. Here's a bit about me:
 
