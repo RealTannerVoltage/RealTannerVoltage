@@ -89,7 +89,7 @@ A browser for `Miyoo Mini Plus` and other `OpenDingux` devices.
 
 ## Socials
 
-- [GitHub](https://github.com/RealTannerVoltage)
+- [GitHub (ur already here lol)](https://github.com/RealTannerVoltage)
 - [TikTok](https://www.tiktok.com/@RealTannerVoltage)
 - [YouTube](https://www.youtube.com/@RealTannerVoltage)
 
