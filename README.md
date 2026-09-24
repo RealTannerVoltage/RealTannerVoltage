@@ -1,41 +1,111 @@
-# Hi there, I'm Tanner Voltage! 👋
+# Tanner Voltage! ⚡
 
-Welcome to my GitHub profile! I'm a passionate software developer who loves open-source projects and innovative solutions. Here's a bit about me:
+`random builder` • `Svelte` • `Arch Linux` • `Rust` • `weird internet energy`
 
-## 🚀 About Me
+Hey, I’m `Tanner Voltage!`
 
-- 🌱 I’m currently learning new technologies and improving my skills in software development
-- 💬 Ask me about web development, Python, or any tech-related topics.
-- 📫 How to reach me: [Email](mailto:tannervoltage@gmail.com)
-- ⚡ Fun fact: I love playing Minecraft.
+I like making stuff that’s a little weird, a little useful, and a lot more fun than it needs to be. I’m into building cool things with `Svelte`, messing around on `Arch`, and making projects that feel like they came from a better version of the internet.
 
-## 🛠️ Technologies & Tools
+- `Svelte` is my main thing
+- `Arch Linux` is my setup
+- `Rust` because it’s too fa-a-ast
+- I like weird ideas
+- I like practical stuff too
+- I like random projects with personality
+- randomness: `yes`
 
-- **Languages:** Python, JavaScript
-- **Frontend:** HTML, CSS, SASS
-- **Backend:** Node.js, Flask
-- **Databases:** Redis
-- **DevOps:** Docker, GitHub Actions
-- **Version Control:** Git, GitHub
+## Stack
 
-## 📊 GitHub Stats
+`Svelte` • `TypeScript` • `JavaScript` • `Kotlin` • `Java` • `Rust` • `CSS` • `HTML` • `Linux` • `Git`
 
-![Tanner's GitHub stats](https://github-readme-stats.vercel.app/api?username=TannerVoltageOfficial&show_icons=true&theme=radical)
+## Projects
 
-## 🏆 GitHub Trophies
+### `website`
+[https://github.com/voltageStudiosOfficial/website](https://github.com/voltageStudiosOfficial/website)
 
-![Tanner's GitHub trophies](https://github-profile-trophy.vercel.app/?username=TannerVoltageOfficial&theme=radical)
+Main web project. Svelte-first and pretty much the vibe of the whole thing.
 
-## 📈 Top Languages
+- `Svelte`: `81.4%`
+- `TypeScript`: `15.7%`
+- `JavaScript`: `2.3%`
+- `HTML`: `0.6%`
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TannerVoltageOfficial&layout=compact&theme=radical)
+### `BLMobile`
+[https://github.com/voltageStudiosOfficial/BLMobile](https://github.com/voltageStudiosOfficial/BLMobile)
 
-## 📫 Connect with Me
+> `⚡ Launch Minecraft. From your room. On your terms.`
 
-- [Email](mailto:tannervoltage@gmail.com)
+- `Kotlin`: `64.2%`
+- `Java`: `22.9%`
+- `C`: `12.8%`
 
-You can go ahead and explore my repositories and projects. Let's build something amazing together!
+### `T-OS`
+[https://github.com/RealTannerVoltage/T-OS](https://github.com/RealTannerVoltage/T-OS)
 
----
+A `MakeCode` project.
 
-⭐️ From [TannerVoltageOfficial](https://github.com/TannerVoltageOfficial)
+- `TypeScript`: `56.5%`
+- `JavaScript`: `30.2%`
+- `Ruby`: `6.8%`
+- `Makefile`: `6.5%`
+
+### `Spydr`
+[https://github.com/RealTannerVoltage/Spydr](https://github.com/RealTannerVoltage/Spydr)
+
+A browser for `Miyoo Mini Plus` and other `OpenDingux` devices.
+
+- `Makefile`: `74.3%`
+- `Rust`: `25%`
+- `C`: `0.7%`
+
+### `Ubl0krMan1a_PLUS`
+[https://github.com/RealTannerVoltage/Ubl0krMan1a_PLUS](https://github.com/RealTannerVoltage/Ubl0krMan1a_PLUS)
+
+> `The ultim@te place to find Ubl0krs, G@m3s, and more!`
+
+- `CSS`: `63.2%`
+- `JavaScript`: `19.1%`
+- `HTML`: `17.7%`
+
+## What I Like Doing
+
+- building with `Svelte`
+- making little tools and apps
+- trying weird ideas
+- making projects with character
+- solving problems in a clear way
+- learning by doing
+- letting randomness win sometimes
+- writing `Rust` because it’s too fa-a-ast
+
+## Random Facts
+
+- name: `Tanner Voltage!`
+- system: `Arch Linux`
+- favorite framework: `Svelte`
+- favorite language: `Rust`
+- internet era energy: `2016`
+- randomness: `yes`
+
+## Socials
+
+- [GitHub](https://github.com/RealTannerVoltage)
+- [TikTok](https://www.tiktok.com/@RealTannerVoltage)
+- [YouTube](https://www.youtube.com/@RealTannerVoltage)
+
+## Vibe Check
+
+status: `building stuff`  
+favorite framework: `Svelte`  
+favorite OS: `Arch`  
+favorite language: `Rust`  
+internet era: `2016`  
+randomness: `yes`  
+usefulness: `hopefully also yes`
+
+I’m not just here to make websites. I like making things that actually matter, even if they start as weird little experiments.
+
+I’m into creative tech, practical tools, and projects with some personality.
+
+> Stay random. Build cool things.  
+> — `Tanner Voltage!` ⚡
