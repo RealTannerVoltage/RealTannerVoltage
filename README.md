@@ -1,18 +1,18 @@
-# Tanner Voltage
+# Tanner Voltage ⚡
 
 I love computers and programming.
 
-I like building things that are a little weird, a little useful, and a lot more fun than they need to be. I enjoy learning by doing, experimenting with code, and turning ideas into projects that actually work.
+I build stuff that is a little weird, a little useful, and way more fun than it needs to be. I like learning by doing, breaking things, fixing them, and making projects that actually feel like mine.
 
-My main focus is web and app development, but I’m always trying new tools, languages, and ideas. I love the feeling of solving problems with code and creating something from nothing.
+I’m mainly into web dev and app dev, but I’m always trying new tools, languages, and ideas. If it runs on a screen and I can make it do something cool, I’m probably interested.
 
 ## My Setup
 
 - Personal laptop: ASUS Vivobook
-- Battery status: completely dead
+- Battery: completely dead
 - Shared desktop: 2012 Lenovo ThinkCentre M92z
-- OS: Windows or Fedora
-- Favorite stack: Svelte + TypeScript + Rust
+- OS: Windows (personal laptop) or Fedora (shared m92z)
+- Main stack: Svelte + TypeScript + Rust
 
 ## Stack
 
@@ -32,16 +32,18 @@ My main focus is web and app development, but I’m always trying new tools, lan
 - building with `Svelte`
 - making random but useful tools
 - experimenting with weird ideas
-- learning by creating projects
+- learning by creating stuff
 - solving problems with code
-- making stuff that has personality
+- making projects that have personality
 
 ## Projects
 
-### `BLMobile` (by [voltage!studios](https://github.com/voltageStudiosOfficial), my sort of software company that is legally not a company yet)
+### `BLMobile`
 [GitHub](https://github.com/voltageStudiosOfficial/BLMobile)
 
 > Launch Minecraft from your room. On your terms.
+
+`voltage!studios` is not exactly a company yet — it’s more like a tiny team of a very smol volume, but we’re building cool stuff anyway.
 
 ### `T-OS`
 [GitHub](https://github.com/RealTannerVoltage/T-OS)
@@ -64,7 +66,7 @@ My main focus is web and app development, but I’m always trying new tools, lan
 - setup: `Windows or Fedora`
 - favorite framework: `Svelte`
 - favorite language: `Rust`
-- mindset: `build weird stuff and make it work`
+- vibe: `weird internet energy`
 - randomness: `yes`
 
 ## Socials
@@ -86,4 +88,4 @@ I’m not just here to make websites. I like making things that matter, even if 
 I’m into creative tech, practical tools, and projects with personality.
 
 > Build stuff
-> `-Tanner Voltage`
+> - Tanner Voltage
