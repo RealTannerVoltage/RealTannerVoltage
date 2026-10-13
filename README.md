@@ -20,16 +20,6 @@ I like making stuff that’s a little weird, a little useful, and a lot more fun
 
 ## Projects
 
-### `website`
-[https://github.com/voltageStudiosOfficial/website](https://github.com/voltageStudiosOfficial/website)
-
-Main web project. Svelte-first and pretty much the vibe of the whole thing.
-
-- `Svelte`: `81.4%`
-- `TypeScript`: `15.7%`
-- `JavaScript`: `2.3%`
-- `HTML`: `0.6%`
-
 ### `BLMobile`
 [https://github.com/voltageStudiosOfficial/BLMobile](https://github.com/voltageStudiosOfficial/BLMobile)
 
