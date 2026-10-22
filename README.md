@@ -12,7 +12,7 @@ I'm Tanner Voltage, an indie programmer at my own unestablished game studio volt
 - Bedroom Launcher ([Mobile](https://GitHub.com/voltagestudiosHQ/BLMobile), Desktop coming soon)
 - [T-OS](https://github.com/RealTannerVoltage/T-OS)
 - and voltage!studios by itself.
-## How-to contact
+## Ways to contact
 - By email to `tannervoltage [at] aol [dot] com`
 - By XMPP to `realtannervoltage [at] conversations [dot] im`
 - @RealTannerVoltage on TikTok or Telegram
