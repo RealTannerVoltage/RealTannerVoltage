@@ -1,5 +1,5 @@
 # Tanner Voltage!
-I'm Tanner Voltage, an indie programmer at my own unestablished game studio voltage!studios. (yes I'm founder and it's on [GitHub](https://GitHub.com/voltagestudiosHQ))
+I'm Tanner Voltage, a randomtuber and indie programmer at my own unestablished game studio voltage!studios. (yes I'm founder and it's on [GitHub](https://GitHub.com/voltagestudiosHQ))
 ## Tech Stack
 - Lenovo M92z that I share with my bros (running Fedora 44)
 - A Vivobook at dad's
