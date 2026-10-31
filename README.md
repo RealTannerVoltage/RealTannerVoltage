@@ -16,5 +16,5 @@ I'm Tanner Voltage, an indie programmer at my own unestablished game studio volt
 - By email to `tannervoltage [at] aol [dot] com`
 - By XMPP to `realtannervoltage [at] conversations [dot] im`
 - @RealTannerVoltage on TikTok or Telegram
-- [LegacyPalace](https://legacypalace.freeflarum.com/), made by LegacyLiam (my twin and lead art at voltage!studios)
+- [LegacyPalace](https://legacypalace.freeflarum.com/), made by [LegacyLiam](github.com/LegacyLiamYT) (my twin and lead art at voltage!studios)
 - Other methods may be listed on my [linktr.ee page](https://linktr.ee/realtannervoltage)
