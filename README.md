@@ -6,7 +6,7 @@ I'm Tanner Voltage, an indie programmer at my own unestablished game studio volt
 - My Samsung Galaxy A15 5G (yes I do has a t-mobile sim paid for by grandma)
 - Mistral AI because oui oui
 - Github (that's why this exists)
-- IONOS (retiring that serveice due to them wanting to send debt collectors over a measily $80)
+- IONOS (retiring that service)
 - Cloudflare (the goat)
 ## My best works
 - Bedroom Launcher ([Mobile](https://GitHub.com/voltagestudiosHQ/BLMobile), Desktop coming soon)
