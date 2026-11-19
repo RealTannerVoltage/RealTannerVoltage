@@ -1,7 +1,7 @@
 # Tanner Voltage!
 I'm Tanner Voltage, an indie programmer at my own unestablished game studio voltage!studios. (yes I'm founder and it's on [GitHub](https://GitHub.com/voltagestudiosHQ))
 ## Tech Stack
-- Lenovo M92z that I share with my bros (running Fedora 44)
+- Lenovo M92z that I share with my bros (running Windows 10)
 - A Vivobook at dad's
 - My Samsung Galaxy A15 5G (yes I do has a t-mobile sim paid for by grandma)
 - Mistral AI because oui oui
