@@ -1,8 +1,8 @@
 # Tanner Voltage!
 I'm Tanner Voltage, an indie programmer at my own unestablished game studio voltage!studios. (yes I'm founder and it's on [GitHub](https://GitHub.com/voltagestudiosHQ))
 ## Tech Stack
-- Lenovo M92z that I share with my bros (running Windows 10)
-- A Vivobook at dad's
+- A shared Lenovo M92z running Windows 10
+- A Vivobook running Windows 11
 - My Samsung Galaxy A15 5G (yes I do has a t-mobile sim paid for by grandma)
 - Mistral AI because oui oui
 - Github (that's why this exists)
@@ -15,6 +15,6 @@ I'm Tanner Voltage, an indie programmer at my own unestablished game studio volt
 ## Ways to contact
 - By email to `tannervoltage [at] aol [dot] com`
 - By XMPP to `realtannervoltage [at] conversations [dot] im`
-- @RealTannerVoltage on TikTok or Telegram
+- @RealTannerVoltage on TikTok
 - [LegacyPalace](https://legacypalace.freeflarum.com/), made by [LegacyLiam](https://github.com/LegacyLiamYT) (my twin and lead art at voltage!studios)
-- Other methods may be listed on my [linktr.ee page](https://linktr.ee/realtannervoltage)
+- Other methods may be listed on my [linktr.ee page](https://tr.ee/tv155)
